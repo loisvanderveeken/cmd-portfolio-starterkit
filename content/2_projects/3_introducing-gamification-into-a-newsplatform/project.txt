@@ -2,19 +2,38 @@ Title: Introducing gamification into a newsplatform
 
 ----
 
-Roles: Interaction Design, Visual Design, Usability Research & Testing
+Roles: Visual Design, Usability Research & Testing
 
 ----
 
-Duration: September 2019 - Januari 2020
+Duration: Up coming
 
 ----
 
-Clients: Algemeen Dagblad
+Clients: VKW Bouw
 
 ----
 
-Deliverables: Wireframes, Moodboard
+Deliverables: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Website VKWbouw",
+        "id": "_n49qb6qd2",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "VKWbouw heeft mij gevraagd om tijdens de vakanties aan hun website te werken en deze aan te passen op gebruikt vriendelijkheid omdat zij op dit moment de website niet helemaal logisch vinden ingericht. Dit is een project dat ik gedurende de meivakantie en zomer vakantie ga oppakken",
+        "id": "_k3fqo7u23",
+        "type": "paragraph"
+    }
+]
 
 ----
 

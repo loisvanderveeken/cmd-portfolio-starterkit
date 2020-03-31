@@ -1,7 +1,7 @@
 title: document
 
 accept:
-  mime: application/pdf
+  mime: application/pdf, image/jpeg, image/png, image/gif
 
 columns:
   - width: 1/1

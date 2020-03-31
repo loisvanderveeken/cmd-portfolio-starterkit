@@ -1,0 +1,18 @@
+body {
+    font-family: 'Bellota Text', cursive;
+}
+
+h1 {
+color: pink;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+    }
+
+.btn-outline-primary {
+    color: #000;
+    border-color: #000;
+}

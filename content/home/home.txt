@@ -2,8 +2,12 @@ Title: Home
 
 ----
 
-Introductiontitle: Hello! I'm John Doe.
+Introductiontitle: Portfolio Lois van der Veeken
 
 ----
 
-Introductiontext: Currently I am looking for an internship where I can develop my skills as a third year Communication and Multimediadesign student.
+Introductiontext:
+
+Welkom op mijn portfolio website. 
+Ik ben Lois en ik ben een 2e jaars CMD studente. 
+Hier vind je verschillende cases waar ik al aan heb gewerkt.

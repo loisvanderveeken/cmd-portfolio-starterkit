@@ -1,20 +1,20 @@
-Title: Designing the perfect onboarding process
+Title: Project politie
 
 ----
 
-Roles: Interaction design, visual design, usability research & testing
+Roles: UX designer
 
 ----
 
-Duration: September 2019 - Januari 2020
+Duration: April 2019 - Juli 2019
 
 ----
 
-Clients: NRC
+Clients: Politie
 
 ----
 
-Deliverables: Empathymap, Wireframes, Persona's
+Deliverables: Concept, Wireframes, Persona's, Testen
 
 ----
 
@@ -23,71 +23,9 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Heading 1",
+        "content": "Project Politie",
         "id": "_8mgii7n73",
         "type": "h1"
-    },
-    {
-        "attrs": [],
-        "content": "Heading 2",
-        "id": "_mvbw9p8m5",
-        "type": "h2"
-    },
-    {
-        "attrs": [],
-        "content": "Heading 3",
-        "id": "_yxpdwjzuk",
-        "type": "h3"
-    },
-    {
-        "attrs": [],
-        "content": "Bullet list",
-        "id": "_kv7cm8v9d",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_08ifj03rw",
-        "type": "ul"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Bullet list",
-        "id": "_kjtk0ujrw",
-        "type": "ul"
-    },
-    {
-        "attrs": [],
-        "content": "This is a quote, don't you think?",
-        "id": "_cwnjhuy68",
-        "type": "blockquote"
-    },
-    {
-        "attrs": [],
-        "content": "Numbered list",
-        "id": "_nfbhfl436",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_03nv0yced",
-        "type": "ol"
-    },
-    {
-        "attrs": {
-            "indent": 0
-        },
-        "content": "Numbered list",
-        "id": "_7rfdykoe8",
-        "type": "ol"
     },
     {
         "attrs": [],
@@ -97,30 +35,81 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "id": "_5o4r373i6",
+        "content": "Project Politie",
+        "id": "_Evs44qVFe",
         "type": "paragraph"
     },
     {
-        "attrs": {
-            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
-            "src": "http://localhost:8888/cmd-portfolio-starterkit/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1579364703/16-9-dummy.jpg",
-            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
-            "ratio": 1.7777777777777777,
-            "caption": "Caption yeah!"
-        },
-        "content": "",
-        "id": "_u394bdt1a",
-        "type": "image"
+        "attrs": [],
+        "content": "<strong>Wat is de vraag?</strong>",
+        "id": "_xmzu9GiuN",
+        "type": "paragraph"
     },
     {
-        "attrs": {
-            "src": "https://youtu.be/Qb7dPpDDgq8",
-            "caption": "Caption yeah!"
-        },
-        "content": "",
-        "id": "_k2lm3y32f",
-        "type": "video"
+        "attrs": [],
+        "content": "De vraag die wij vanuit de politie hebben gekregen was: Hoe kunnen we ervoor zorgen dat de politieagenten hen talenten en kwaliteiten beter deelbaar en vindbaar kunnen maken, waardoor we sneller en sterkere teams kunnen samenstellen. Deze vraag heb ik uiteindelijk zelf verkleind naar: Hoe kan de politie tijdens noodsituaties kwaliteiten snel vindbaar maken.",
+        "id": "_tG3OlhXZr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat is het doel?</strong>",
+        "id": "_FcRklwfn4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Een (digitale) technieken ontwerpen waardoor de politie makkelijker en sneller kwaliteiten en functies kan vinden. Niet alleen de certificaten en de diploma\u2019s die de agenten op politie gebied hebben behaald, maar ook de informele talenten en kwaliteiten kunnen hierbij van belang zijn. Door andere talenten en kwaliteiten van collega\u2019s sneller vindbaar te maken. Bespaar je veel tijd waardoor er uiteindelijke op jaar basis meer zaken opgepakt kunnen worden.",
+        "id": "_7MakU0cAE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat heb je gedaan?</strong>",
+        "id": "_U0h6Cr5Lw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Omdat de opdrachtgever tevens ook onze doelgroep was, was het makkelijk om binnen te komen en zo meerdere politieagenten en recherches te kunnen spreken. Zo had ik al snel mijn eerste interview. Omdat het een intern project was, zorgde dat ervoor dat ik nauw contact had met verschillende politieagenten en hun gebruikte als focusgroep. Hier kon ik terecht met mijn vragen maar ook mijn idee\u00ebn, vaak kreeg ik vrijwel direct reacties en feedback op mijn vragen. Dit zorgde ervoor dat ik mezelf goed kon inleven in de doelgroep en rekening kon houden met hun wensen en ingevingen. Aan de hand hiervan heb ik een persona opgesteld waarin hun dag doorloop voorop stond. Aan de hand hiervan ben ik gaan concepten. Hierna hield ik een creatieve sessie samen met 4 medestudenten. Je schreef verschillende concepten op binnen bepaalde tijd. Vervolgens gaf je je blaadje door aan de volgende en voegde die een toevoeging toe enzovoort. Vanuit daar heb ik een concept gekozen die ik ver ging uitwerken aan de hand van wireframes. Voor kleur gebruik was de wens vanuit de politie een keer iets te hebben dat niet blauw is. Dat kon natuurlijk geregeld worden. Daarna heb ik van mijn wireframes en low-fit gemaakt en hier mee een flowchart/ usabiltiy test gedaan. Deze werkte goed waardoor ik weer door kon. Uiteindelijk heb ik dit product door ontworpen tot een midi-fit prototype omdat er niet meer \u2018tijd\u2019 was vanuit school.",
+        "id": "_JadOSDUJ1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Heb je het doel behaald?</strong>",
+        "id": "_E6P7Stn6M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ik durf zeker te zeggen dat gezien de tijd het doel is behaald. Doordat ik nauw met de politie communiceerde voldeed het eindresultaat aan de wensen die de politie zelf voor ogen had.<br>Ik kan mijn concept het best uitleggen in een scenario: Er is een moord gepleegd. De verdachte is heeft zware autisme. Niet iedereen mag deze verhoren. Alleen een VKV\u2019er mag dit doen (Verhoor kwetsbare gedachten). De VKV\u2019er die dit normaal altijd doet is op dit moment op vakantie en dus niet beschikbaar om dit verhoor te doen. Maar geen paniek, want we hebben een app waar mee je met een aantal kliks een melding met deze vraag kunt versturen naar een grote groep binnen de politie. Deze melding heeft een speciaal geluid zodat de gebruikers worden geprikkeld deze te bekijken. Je hoeft alleen te reageren op het moment dat je een VKV\u2019er kent of er zelf een bent. Je vult je gegevens in en er word dan door de zender z.s.m. contact met je opgenomen",
+        "id": "_Uapxybgqc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat heb je geleerd?</strong>",
+        "id": "_6GNCnQmNK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sinds dit project durf ik vooral uit mijn comfort zone te stappen. Op het moment dat je een duidelijk verhaal en vraag hebt zijn mensen bereid om je met van alles te helpen. Ik vond het in voorgaande projecten moeilijk om op onbekende mensen af te stappen en hield interviews vaak binnen de cirkel aan mensen die ik al ken. Dit veranderde helemaal toen ik moest herkansen tijdens dit project. Ik kreeg in de gaten dat kwaliteit in combinatie met kwantiteit voor mij het beste resultaat leverde. Sinds dien ben ik niet meer onzeker om andere mensen af te stappen en te vragen of zij bereid zijn mij te helpen met onderzoek. Zolang ik duidelijk kan vertellen waar ik hulp bij nodig heb en wat mijn vraag/ opdracht voor hun is.",
+        "id": "_0tlemIl6X",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat doe je volgende keer anders?</strong>",
+        "id": "_WsuC4XXvI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wat ik denk dat ook stukken beter had gekund is het visuele gebied van de opdracht. Het idee van uit school was dat wij dit project. Alleen hoefde uit te werken toch concept maar ik heb hier nog een schepje bovenop gedaan door ook te prototypen omdat ik hier mezelf nog in kon verbeteren. Dit vooral omdat ik daar voorgaande projecten mezelf nog niet veel in had verdiept.",
+        "id": "_ATM2K9Vnl",
+        "type": "paragraph"
     },
     {
         "attrs": [],

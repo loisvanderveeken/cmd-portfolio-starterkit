@@ -1,25 +1,27 @@
-Title: Robin Sinke
+Title: Lois van der Veeken
 
 ----
 
 Logo:
 
-- robinsinke.jpeg
+- profielfoto-lois.png
 
 ----
 
-Email: r.sinke@hr.nl
+Email: loisvdv@outlook.com
 
 ----
 
 Social:
 
 - 
-  platform: Twitter
-  url: https://twitter.com/robzooi
-- 
   platform: LinkedIn
-  url: https://www.linkedin.com/in/robinsinke/
+  url: >
+    https://www.linkedin.com/in/lois-van-der-veeken-587126ab/
+- 
+  platform: Facebook
+  url: >
+    https://www.facebook.com/lois.vanderveeken
 
 ----
 
