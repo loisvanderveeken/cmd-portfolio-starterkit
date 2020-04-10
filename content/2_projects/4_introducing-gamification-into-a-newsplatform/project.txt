@@ -1,4 +1,4 @@
-Title: Introducing gamification into a newsplatform
+Title: Upcoming project restyling de website van VKWbouw
 
 ----
 
@@ -29,7 +29,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "VKWbouw heeft mij gevraagd om tijdens de vakanties aan hun website te werken en deze aan te passen op gebruikt vriendelijkheid omdat zij op dit moment de website niet helemaal logisch vinden ingericht. Dit is een project dat ik gedurende de meivakantie en zomer vakantie ga oppakken",
+        "content": "VKWbouw heeft mij gevraagd om tijdens de vakanties aan hun website te werken en deze aan te passen op gebruikt vriendelijkheid omdat zij op dit moment de website niet helemaal logisch vinden ingericht. Dit is een project dat ik gedurende de meivakantie en zomer vakantie ga oppakken.",
         "id": "_k3fqo7u23",
         "type": "paragraph"
     }
