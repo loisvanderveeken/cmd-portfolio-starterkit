@@ -1,0 +1,52 @@
+Title: Upcoming project restyling de website van VKWbouw
+
+----
+
+Roles: Visual Designer
+
+----
+
+Duration: Up coming
+
+----
+
+Clients: VKW Bouw
+
+----
+
+Deliverables: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Website VKWbouw",
+        "id": "_n49qb6qd2",
+        "type": "h1"
+    },
+    {
+        "attrs": [],
+        "content": "VKWbouw heeft mij gevraagd om tijdens de vakanties aan hun website te werken en deze aan te passen op gebruikt vriendelijkheid omdat zij op dit moment de website niet helemaal logisch vinden ingericht. Dit is een project dat ik gedurende de meivakantie en zomer vakantie ga oppakken.",
+        "id": "_k3fqo7u23",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Textarea:
+
+## Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Research
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.
+
+## Anything else
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Aliquam erat volutpat. Donec placerat nisl magna, et faucibus arcu condimentum sed.

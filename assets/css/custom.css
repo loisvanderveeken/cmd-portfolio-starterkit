@@ -32,12 +32,8 @@ color: #fff;
 
 h2 {
     color: #fff;
+    margin-bottom: 30px;
 }
-
-.card {
-    background-color: #000;
-    border-color: #fff;
-    }
 
 p { 
     color: white;
@@ -83,12 +79,32 @@ a:hover {
     color: white;
     }
 
-    .card-img, .card-img-top {
-        border-top-left-radius: calc(.25rem - 1px);
-        border-top-right-radius: calc(.25rem - 1px);
+    .card {
+        border-bottom-right-radius: 2.50rem;
+        border-bottom-left-radius: 0.5rem;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        margin-right: 100px;
+        background-color: #000; 
+        border-color: #fff;
+        border-image-repeat: stretch;
+        border-bottom-right-radius: 2.50rem;
+        border-bottom-left-radius: 0.5rem;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        border: 5px solid #fff(0, 0, 0, 0);
+    }
+
+    .card-body {
+        margin-top: 30px;
+        margin-bottom: 30px;
         }
 
-        .card-img, .card-img-top:hover {
-            border-top-left-radius: calc(.25rem - 1px);
-            border-top-right-radius: calc(.25rem - 1px);
-            }
+    .card:hover {
+        -webkit-transform: scale(1.1);
+        }
+
+    .row {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }

@@ -14,7 +14,7 @@ Clients: NRC Handelsblad
 
 ----
 
-Deliverables: Wireframes, prototypes, testen
+Deliverables: Presenteren, wireframes, prototypes, testen
 
 ----
 
