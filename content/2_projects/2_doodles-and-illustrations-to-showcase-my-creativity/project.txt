@@ -18,7 +18,22 @@ Deliverables: Researcher, Concepten, Interviews
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Dit project is nu bezig.. later meer ",
+        "id": "_96eqfugdm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_enr1uzats",
+        "type": "paragraph"
+    }
+]
 
 ----
 

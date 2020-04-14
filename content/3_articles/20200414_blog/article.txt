@@ -1,0 +1,30 @@
+Title: Reflectie pilot portfolio bouwen
+
+----
+
+Date: 2020-04-14
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "ekmeaijgnk.",
+        "id": "_ut2dqvg2o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_cwderx2cf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_phd3vcsfg",
+        "type": "paragraph"
+    }
+]
