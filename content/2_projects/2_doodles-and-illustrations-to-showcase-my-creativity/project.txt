@@ -14,7 +14,7 @@ Clients: Erasmus Foodlab
 
 ----
 
-Deliverables: Researcher, Concepten, Interviews
+Deliverables: Researche, visulas, concepten, interviews
 
 ----
 
@@ -23,8 +23,110 @@ Text:
 [
     {
         "attrs": [],
-        "content": "Dit project is nu bezig.. later meer ",
-        "id": "_96eqfugdm",
+        "content": "<strong>Project foodlab</strong>",
+        "id": "_xrso4m9wk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Op dit moment zijn we nog bezig met het project, dit kan gezien worden als een tussentijdse update. We hebben op dit moment net het eerste kwartaal afgerond met 3 concepten. Deze gaan we in de komende tijd door ontwikkelen tot een product. Hier kun je alvast lezen wat ik afgelopen kwartaal samen met mijn team heb gedaan.",
+        "id": "_F2q7HXcz4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat is de vraag?<br></strong>De vraag vanuit het foodlab is hoe zij ervoor kunnen zorgen dat de WO-student van het EUR gezonder en duurzamer gaat leven (eigenlijk zelfs vegan). Tijdens een observatie op de campus viel ons op dat deze studenten veel koffie drinken. Na hier nog wat verdiepend onderzoek over te hebben gedaan kwamen wij erachter dat de studenten te weinig energie hebben en daarom grijpen naar energie boosters zoals koffie. Dit energie te kort kan komen door een slecht voedingspatroon. Hier herkennen de WO-studenten zichzelf in. Door hogeschooldruk denken zij namelijk dat er geen tijd is om gezond en duurzaam te eten.",
+        "id": "_n0aaeUtFZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat is het doel?<br></strong>Ons doel in om de WO-studenten kennis te laten maken met een energie gevend voedingspatroon en hun bewust te maken dat dit niet moeilijk hoeft te zijn of veel tijd kost.",
+        "id": "_hymHnExZY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat heb je gedaan?<br></strong>Om achter deze informatie te komen heb ik een aantal laddering interviews afgenomen bij WO-studenten die dezelfde pijnpunten ervaarde. Toen mijn team en ik deze vergeleken waren daar ook dezelfde raakvlakken. Daarnaast heb ik en een aantal teamgenoten geprobeerd een week lang vegan te eten. Om te kijken wat wij uiteindelijk van de WO-student gaan vragen en wat de pijnpunten zijn en deze ook herkennen. Zo kunnen wij hier weer inzichten uithalen en deze weer gebruiken voor onze ideevormingsfase.",
+        "id": "_QwODN8WUm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Heb je het doel behaald?<br></strong>Voor nu is het doel behaald we hebben 3 op een staande concepten kunnen ontwikkelen. Deze 3 concepten zijn terug te zien op op de storyboards.",
+        "id": "_gOZQJL2Sq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat heb je geleerd?<br></strong>Op dit moment heb ik vooral geleerd logische stappen te maken in mijn ontwerpproces en vooral voorafgaand aan een actie voor mezelf scherpleren stellen wat ik eruit wil halen en wat ik denk eruit te halen. Zo wordt het duidelijk wat ik wil bereiken en kan ik de resultaten beter evalueren.",
+        "id": "_MVmUIDgJu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat neem ik mee naar volgend kwartaal?<br></strong>Het doorhakken van knopen en de leiding nemen als we te lang ergens op blijven hangen. Dit heb ik bijvoorbeeld gedaan tijdens het opstellen van de design principles. Wij bleven er erg lang op hangen toen heb ik hierin de leiding genomen om knopen door te hakken. Dit wil ik zeker vast blijven houden, het is goed om bepaalde punten te overdenken maar soms moeten er ook beslissingen gemaakt worden. <strong><br></strong>",
+        "id": "_joj2o34qv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong><br></strong>",
+        "id": "_0ykl5yo2k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/storyboard.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1320121735-1586950776/storyboard.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/storyboard.jpg",
+            "ratio": 1.3693581780538301995164829349960200488567352294921875,
+            "caption": "Storyboard Energie meter"
+        },
+        "content": "",
+        "id": "_fdaq32glc",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_7fap0jhkt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/storyboard-game.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1341639972-1586951164/storyboard-game.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/storyboard-game.jpg",
+            "ratio": 1.4151260504201681467151274773641489446163177490234375,
+            "caption": "Storyboard Energie game"
+        },
+        "content": "",
+        "id": "_byd4yzhp6",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ml5c6elx5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/storyboard-chakra-foto.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2947703137-1586951245/storyboard-chakra-foto.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/storyboard-chakra-foto.jpg",
+            "ratio": 1.438740293356341570785161820822395384311676025390625,
+            "caption": "Storyboard Chakra foto"
+        },
+        "content": "",
+        "id": "_qinqvfyae",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_3xez485hc",
         "type": "paragraph"
     },
     {
