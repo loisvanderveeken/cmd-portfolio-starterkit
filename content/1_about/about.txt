@@ -13,7 +13,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Ik ben Lois van der Veeken, ik ben 21 jaar en ik studeer Communication and Multimedia design aan de Hogeschool Rotterdam. Hier voel ik me helemaal thuis. Ik ben altijd nieuwsgierig en leergierig. Dit komt goed van pas bij onderzoeken. Daarnaast vind ik het interessant om oplossingsgericht bezig te zijn. Ik zeg dan ook altijd \u2018Het komt wel goed en zo niet, dan toch!\u2019",
+        "content": "Ik ben Lois van der Veeken, ik ben 22 jaar en ik studeer Communication and Multimedia design aan de Hogeschool Rotterdam. Hier voel ik me helemaal thuis. Ik ben altijd nieuwsgierig en leergierig. Dit komt goed van pas bij onderzoeken. Daarnaast vind ik het interessant om oplossingsgericht bezig te zijn. Ik zeg dan ook altijd \u2018Het komt wel goed en zo niet, dan toch!\u2019",
         "id": "_hnFK8QOXK",
         "type": "paragraph"
     },
