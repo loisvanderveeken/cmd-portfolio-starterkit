@@ -114,7 +114,15 @@ a:hover {
         }
 
     img {
-        vertical-align: middle;
-        border-style: none;
-            }
+    vertical-align: middle;
+    border-style: none;
+        }
+
+    figure img {
+    width: 100%;
+    }
+
+    figcaption {
+    color: #fff;
+    }
 
