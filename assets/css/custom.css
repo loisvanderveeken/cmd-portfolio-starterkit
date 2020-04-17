@@ -1,65 +1,65 @@
 
 body {
-    background-color: black;
+    background-color: #CEB39D;
     font-family: 'Bellota Text', cursive;
 }
 
 .navbar-light .navbar-brand {
-    color: white;
+    color: #fff;
     }
 
-    .navbar-light .navbar-brand:hover {
-        color: #e4c4ff;
-        }
+.navbar-light .navbar-brand:hover {
+        color: #254A2F;
+    }
 
 .navbar-light .navbar-nav .nav-link {
-    color: white;
+    color: #fff;
     }
 
-    .navbar-light .navbar-nav .nav-link:hover {
-        color: #e4c4ff;
-        }
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #254A2F;
+    }
 
 .border-bottom {
     border-bottom: 1px solid #dee2e6!important;
-    color: white;
+    color: #fff;
     }
     
 
 h1 {
-color: #e4c4ff;
+    color: #254A2F;
 }
 
 h2 {
-    color: #e4c4ff;
-    margin-bottom: 30px;
+    color: #254A2F;
 }
 
 p { 
-    color: white;
+    color: #fff;
 }
 
 .btn-primary {
-    color: #000;
-    background-color: #fff;
-    border-color: #000;
+    color: #fff;
+    background-color: #E5D1C4;
+    border-color: #E5D1C4;
     }
 
 .btn-primary:hover {
-    color: #fff;
-    background-color: #e4c4ff;
-    border-color: #e4c4ff;
+    color: #CEB39D;
+    background-color: #fff;
+    border-color: #CEB39D;
     }
 
 .btn-outline-primary {
     color: #fff;
-    border-color: #fff;
+    background-color: #CEB39D;
+    border-color: #E5D1C4;
 }
 
 .btn-outline-primary:hover {
-    color: #e4c4ff;
-    background-color: #000;
-    border-color: #e4c4ff;
+    color: #CEB39D;
+    background-color: #fff;
+    border-color: #CEB39D;
 }
 
 a {
@@ -69,48 +69,47 @@ a {
     }
 
 a:hover {
-    color: #e4c4ff;
+    color: #254A2F;
     text-decoration: underline;
    }
 
-   .lead {
+.lead {
     font-size: 1.25rem;
     font-weight: 300;
-    color: white;
+    color: #fff;
     }
 
-    .card {
-        border-bottom-right-radius: 2.50rem;
-        border-bottom-left-radius: 0.5rem;
-        border-top-left-radius: 0.5rem;
-        border-top-right-radius: 0.5rem;
-        background-color: #000; 
-        border-color: #fff;
-        border-image-repeat: stretch;
-        border: 5px solid #fff(0, 0, 0, 0);
-        -webkit-filter: grayscale(100%); 
-        filter: grayscale(100%); 
-        height: 200px;
-        width: 248px;
+.card {
+    border-bottom-right-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    background-color: #E5D1C4; 
+    border-image-repeat: stretch;
+    border: 10px solid #none(0, 0, 0, 0);
+    height: 200px;
+    width: 248px;
+    margin-top: 20px;
     }
 
     .card:hover {
         -webkit-transform: scale(1.1);
-        -webkit-filter: grayscale(0%);
-        filter: grayscale(0%); 
-        border-color: #e4c4ff;
+        border-color: #766049;
         }
-   
-    .row {
-        margin-top: 30px;
-        margin-bottom: 30px;
-    }
+
 
     .card-img, .card-img-top {
-        border-top-left-radius: calc(.25rem - 1px);
-        border-top-right-radius: calc(.25rem - 1px);
-        width: 248px; 
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        width: auto; 
         height: 186px;
+        -webkit-filter: grayscale(100%); 
+        filter: grayscale(100%); 
+        }
+
+    .card-img, .card-img-top:hover {
+        -webkit-filter: grayscale(0%);
+        filter: grayscale(0%); 
         }
 
     img {
@@ -118,11 +117,80 @@ a:hover {
     border-style: none;
         }
 
-    figure img {
-    width: 100%;
-    }
 
     figcaption {
-    color: #fff;
+    color: #254A2F;
     }
 
+    .rounded-circle {
+        border-radius: 0%!important;
+        }
+
+        .border-top {
+            border-top: 1px solid #dee2e6!important;
+            margin: 20px;
+            }
+
+            .row.border-top {
+                margin-top: 50px;
+                margin-bottom: 50px;
+                }
+
+    .navbar {
+            border-bottom: 1px solid #dee2e6!important;
+            margin: 20px;
+            }
+    .energiemeter img { 
+        width: 30%;
+        height: 231px;
+        margin: 10px; 
+        float: right;
+    }
+
+    .game img { 
+        width: 30%; 
+        height: 231px;
+        margin: 10px; 
+        float: left;
+    }
+
+    .chakra img { 
+        width: 30%; 
+        height: 231px;
+        margin: 10px; 
+        float: center; 
+    }
+
+    .mockup img {
+        width: 100%;
+        margin-top: 20px;
+        height: 450px;
+        object-fit: cover;
+    }
+
+    .vkwmockup img {
+        width: 100%;
+        margin-top: 20px;
+        height: 450px;
+        object-fit: cover;
+    }
+
+    .nrcmockup img {
+        width: 100%;
+        margin-top: 20px;
+        height: 400px;
+        object-fit: cover;
+    }
+
+    .politiemockup img {
+        width: 100%;
+        margin-top: 20px; 
+        height: 530px;
+        object-fit: cover;
+    }
+
+    .flyer img { 
+        width: 30%;
+        margin: 10px; 
+        float: right;
+    }

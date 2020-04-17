@@ -22,6 +22,19 @@ Text:
 
 [
     {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/mockup-foodlab.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3255249912-1586805998/mockup-foodlab.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/mockup-foodlab.jpg",
+            "ratio": 1.616744186046511710941331330104731023311614990234375,
+            "caption": "",
+            "css": "mockup"
+        },
+        "content": "",
+        "id": "_6u4cnn213",
+        "type": "image"
+    },
+    {
         "attrs": [],
         "content": "<strong>Project foodlab</strong>",
         "id": "_xrso4m9wk",
@@ -76,18 +89,6 @@ Text:
         "type": "paragraph"
     },
     {
-        "attrs": {
-            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/storyboard.jpg",
-            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1320121735-1586950776/storyboard.jpg",
-            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/storyboard.jpg",
-            "ratio": 1.3693581780538301995164829349960200488567352294921875,
-            "caption": "Storyboard Energie meter"
-        },
-        "content": "",
-        "id": "_fdaq32glc",
-        "type": "image"
-    },
-    {
         "attrs": [],
         "content": "",
         "id": "_7fap0jhkt",
@@ -95,11 +96,25 @@ Text:
     },
     {
         "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/storyboard.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1320121735-1586950776/storyboard.jpg",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/storyboard.jpg",
+            "ratio": 1.3693581780538301995164829349960200488567352294921875,
+            "css": "energiemeter",
+            "caption": ""
+        },
+        "content": "",
+        "id": "_fdaq32glc",
+        "type": "image"
+    },
+    {
+        "attrs": {
             "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/storyboard-game.jpg",
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/1341639972-1586951164/storyboard-game.jpg",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/storyboard-game.jpg",
             "ratio": 1.4151260504201681467151274773641489446163177490234375,
-            "caption": "Storyboard Energie game"
+            "css": "game",
+            "caption": ""
         },
         "content": "",
         "id": "_byd4yzhp6",
@@ -117,7 +132,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/2947703137-1586951245/storyboard-chakra-foto.jpg",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/storyboard-chakra-foto.jpg",
             "ratio": 1.438740293356341570785161820822395384311676025390625,
-            "caption": "Storyboard Chakra foto"
+            "css": "chakra",
+            "caption": ""
         },
         "content": "",
         "id": "_qinqvfyae",

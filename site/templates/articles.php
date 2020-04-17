@@ -13,7 +13,7 @@
         <div class="card-body">
           <h4 class="card-title"><a href="<?= $article->url() ?>"><?= $article->title() ?></a></h4>
           <p class="card-text"><?= $article->roles() ?> </p>
-          <a href="<?= $article->url() ?>">Read more &#8594;</a>
+          <a href="<?= $article->url() ?>">Lees meer &#8594;</a>
           </div>
         </div>
       </div>

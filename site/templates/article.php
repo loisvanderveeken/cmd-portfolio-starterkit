@@ -15,8 +15,8 @@
   if ($blogPage = page('articles')): ?>
   <div class="row border-top">
     <div class="col-12">
-      <h2 class="float-left">View more articles</h2>
-      <a class="float-right" href="<?= url('articles') ?>">View all articles &#8594;</a>
+      <h2 class="float-left">Bekijk meer</h2>
+      <a class="float-right" href="<?= url('articles') ?>">Bekijk meer &#8594;</a>
     </div>
     <?php foreach ($blogPage->children()->listed()->paginate(3) as $article): ?>
     <div class="col-12 col-lg-4">

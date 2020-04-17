@@ -4,7 +4,7 @@ Title: Lois van der Veeken
 
 Logo:
 
-- logo.png
+- a-logo.png
 
 ----
 

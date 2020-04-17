@@ -22,10 +22,18 @@ Text:
 
 [
     {
-        "attrs": [],
-        "content": "Website VKWbouw",
-        "id": "_n49qb6qd2",
-        "type": "h1"
+        "attrs": {
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/mockup-vkwbouw.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/3049448517-1586803667/mockup-vkwbouw.jpg",
+            "id": "projects/introducing-gamification-into-a-newsplatform/mockup-vkwbouw.jpg",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": "",
+            "alt": "",
+            "css": "vkwmockup"
+        },
+        "content": "",
+        "id": "_xzunemraj",
+        "type": "image"
     },
     {
         "attrs": [],

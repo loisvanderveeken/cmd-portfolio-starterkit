@@ -1,7 +1,7 @@
   <footer>
     <div class="row border-top">
       <div class="col d-flex justify-content-center">
-        <h2 id="social">Feel free to contact me</h2>
+        <h2 id="social">Contactgegevens</h2>
       </div>
     </div>
     <div class="row">

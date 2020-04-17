@@ -1,4 +1,4 @@
-Title: About me
+Title: Over mij
 
 ----
 
@@ -37,13 +37,19 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Wat vind ik zo leuk aan CMD?</strong>",
+        "content": "<strong>Wat zoek ik in een stage?</strong>",
         "id": "_U0kBNl2p5",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Eigenlijk de creativiteit die ik er in kwijt kan. Vooral tijdens het brainstormen kun je je creativiteit lekker de vrije loop laten gaan waarbij niks fout is. Daarnaast vind ik het leuk dat CMD niet iets is wat stilstaat, omdat de technologie zich door blijft ontwikkelen en je eigenlijk altijd dus wel nieuwe dingen leert of ontdekt.",
+        "content": "Ik vind alles eigenlijk leuk omtrent design. Maar als ik dan toch een voorkeur moet uitspreken gaat deze uit naar visual design. Mij lijkt het dan ook leuk om mezelf tijdens de stage periode bezig te houden met visual design, content strategie en ux copywriting.",
+        "id": "_nqe8aeo9j",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
         "id": "_cPx9xejtB",
         "type": "paragraph"
     },

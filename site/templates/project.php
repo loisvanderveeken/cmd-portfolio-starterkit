@@ -24,6 +24,7 @@
 </div>
 <div class="row">
   <div class="col-12">
+  
     <?= $page->text()->blocks()->html() ?>
   </div>
 </div>
@@ -32,17 +33,17 @@
   if ($projectsPage = page('projects')): ?>
   <div class="row border-top">
     <div class="col-12">
-      <h2 class="float-left">My work</h2>
-      <a class="float-right" href="<?= url('projects'); ?>">View all projects &#8594;</a>
+      <h2 class="float-left">Mijn projecten</h2>
+      <a class="float-right" href="<?= url('projects'); ?>">Bekijk alle projecten &#8594;</a>
     </div>
     <?php foreach ($projectsPage->children()->listed()->paginate(3) as $project): ?>
     <div class="col-12 col-lg-4">
       <div class="card h-100">
-      <img src="<?= $project->images()->findBy("template", "thumbnail")->url(); ?>" class="card-img-top" alt="thumbnail" />
+      <img src="<?= $project->images()->findBy("template", "thumbnail")->url(); ?>" class="card-img-top" alt="thumbnail"/>
       <div class="card-body">
         <h4 class="card-title"><a href="<?= $project->url() ?>"><?= $project->title() ?></a></h4>
         <p class="card-text"><?= $project->roles() ?></p>
-        <a href="<?= $project->url() ?>">Read more &#8594;</a>
+        <a href="<?= $project->url() ?>">Lees meer &#8594;</a>
       </div>
     </div>
     </div>

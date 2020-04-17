@@ -18,4 +18,75 @@ Deliverables: Presenteren, wireframes, prototypes, testen
 
 ----
 
-Text: 
+Text:
+
+[
+    {
+        "attrs": {
+            "guid": "/pages/projects+b-a/files/mockup-nrc.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/b-a/3609416141-1586801910/mockup-nrc.jpg",
+            "id": "projects/b-a/mockup-nrc.jpg",
+            "ratio": 1.3320013320013319724210987260448746383190155029296875,
+            "caption": "",
+            "css": "nrcmockup"
+        },
+        "content": "",
+        "id": "_nc20y4u3y",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat is de vraag?<br></strong>Vanuit het NRC handelsblad hadden wij de vraag gekregen hoe wij ervoor kunnen zorgen dat de abonnees van het NRC hun abonnement niet op zeggen binnen de eerste 14 dagen na de aanschaf. Binnen deze tijd kunnen wij namelijk nog vrijblijvend op zeggen",
+        "id": "_wJLFFxgMN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat is het doel?<br></strong>Nadat wij interviews met de doelgroep hebben afgenomen blijkt dat tijdsgebrek een grote reden is van opzegging. Daarnaast zijn er veel abonnees van andere kranten die dit als reden geven niet voor het NRC te kiezen omdat deze artikelen lang zouden zijn. Dit is dus niet altijd het geval.",
+        "id": "_8Y4plAwS2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat heb je gedaan?<br></strong>Met deze inzichten heb ik op het hoofdkantoor van het NRC onze concepten mogen presenteren. Hier werd erg enthousiast op gereageerd. Het idee dat er uit sprong was de 'kleinere krant', zij waren erg nieuwsgierig hoe dit op een online platform zich zou ontwikkelen. Na enkele testen bleek dat deze kleinere krant nieuws van lagere kwaliteit zou geven. Het NRC staat juist voor 'niet de grootste, maar wel de beste'. Daarnaast kwamen wij erachter dat er ook verschillende artikelen tussen staan die helemaal niet zo groot en lang zijn. Hierdoor gingen wij hier verder over brainstormen over oplossingen en idee\u00ebn. Zo kwamen wij uiteindelijk tot de basis van ons concept. Een feature in de app genaamd tijdinstellingen. Hiermee kun je het aantal minuten instellen die jij kunt besteden aan het lezen van de app. Zo bieden wij de lezer inzicht in wat zij kunnen lezen.",
+        "id": "_iUXstnjDu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+b-a/files/schermafbeelding-2020-04-17-om-19.45.29.png",
+            "src": "http://192.168.64.2/media/pages/projects/b-a/256964196-1587145616/schermafbeelding-2020-04-17-om-19.45.29.png",
+            "id": "projects/b-a/schermafbeelding-2020-04-17-om-19.45.29.png",
+            "ratio": 0.70608495981630314819454952157684601843357086181640625,
+            "caption": "",
+            "css": "flyer"
+        },
+        "content": "",
+        "id": "_2wrd3x2ae",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Heb je het doel behaald?<br></strong>Het was deels gehaald. We hebben een mooi eindproduct neer weten te zetten waar de opdrachtgever erg enthousiast over was. Waarom deels.. Dit komt omdat de samenwerking niet vlekkeloos verliep. De communicatie liep niet lekker waardoor we soms langs elkaar heen werkte en niet altijd de meest logische stappen hebben kunnen maken. Daarnaast waren wij een 'het maakt mij niet uit' team aka we waren besluiteloos. Dit zorgde ervoor dat we erg lang bleven hangen op bepaalde vlakken waardoor wij zelf uiteindelijk 'tijdsgebrek' hadden. Daarnaast moet ik zeggen dat ik wel erg trots ben op het team en mijzelf. De laatste 2 weken viel er een teamgenoot weg waardoor wij extra hard aan de touwtjes hebben moeten trekken. Dit hebben wij ook gedaan waardoor uiteindelijk de opdrachtgever alsnog positief tegenover ons product aan keek.",
+        "id": "_fsvYBQWEY",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat heb je geleerd?<br></strong>Dit is echt een voorbeeld waarin ik erg heb geleerd dat communicatie zo ongelofelijk belangrijk is binnen een ontwerpproces. Zoals ik eerder vertel, hebben wij de laatste 2 weken erg hard moeten werken om toch tot een goed resultaat te komen. Hier kwam bij kijken dat het contact binnen het team ook strakker werd. We hadden dagelijks contact over wat er was gebeurd, de inzichten en wat er nog moest gebeuren.",
+        "id": "_bVd5wAIaU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wij hebben voor dit project in Figma gewerkt, een online platform waar je gezamenlijk aan een prototype van bijvoorbeeld een app kan werken. Figma was voor mij een nieuw programma, dit zorgde ervoor dat ik hiervoor veel op heb moeten zoeken en tutorials heb moeten kijken. Maar ik heb wel kennis gemaakt en gewerkt met weer een nieuw ontwerpprogramma",
+        "id": "_a9uhlghre",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat neem ik mee naar volgend kwartaal?<br></strong>Wat ik meeneem naar volgend jaar is de goede communicatie, inzichten delen en gezamenlijke vervolgstappen bespreken. Daarnaast stel ik voor mezelf ook het doel om de leiding te nemen op het moment dat we geen knopen kunnen door hakken in bijvoorbeeld ontwerpkeuzes. Hoe ik dit wil doen is door terug te gaan naar de kern van onze ontwerp vraag.",
+        "id": "_ahHxMRiee",
+        "type": "paragraph"
+    }
+]

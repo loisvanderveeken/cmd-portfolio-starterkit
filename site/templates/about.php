@@ -5,8 +5,8 @@
     <?= $page->text()->blocks()->html() ?>
   </div>
   <div class="col-12 col-lg-3">
-    <h2>Resume</h2>
-    <a href="<?= $page->files()->template('document') ?>" target="_blank">Download resumé</a>
+    <h2>CV</h2>
+    <a href="<?= $page->files()->template('document') ?>" target="_blank">Download CV</a>
   </div>
 </div>
 

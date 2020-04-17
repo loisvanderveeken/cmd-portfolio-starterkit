@@ -22,22 +22,23 @@ Text:
 
 [
     {
-        "attrs": [],
-        "content": "Project Politie",
-        "id": "_8mgii7n73",
-        "type": "h1"
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/16-9-dummy.jpg",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2572562093-1586955393/16-9-dummy.jpg",
+            "id": "projects/designing-the-perfect-onboarding-process/16-9-dummy.jpg",
+            "ratio": 1.3333333333333332593184650249895639717578887939453125,
+            "caption": "",
+            "css": "politiemockup"
+        },
+        "content": "",
+        "id": "_zu9uvd5io",
+        "type": "image"
     },
     {
         "attrs": [],
         "content": "",
         "id": "_n69m23272",
         "type": "hr"
-    },
-    {
-        "attrs": [],
-        "content": "Project Politie",
-        "id": "_Evs44qVFe",
-        "type": "paragraph"
     },
     {
         "attrs": [],
@@ -110,20 +111,6 @@ Text:
         "content": "Wat ik denk dat ook stukken beter had gekund is het visuele gebied van de opdracht. Het idee van uit school was dat wij dit project. Alleen hoefde uit te werken toch concept maar ik heb hier nog een schepje bovenop gedaan door ook te prototypen omdat ik hier mezelf nog in kon verbeteren. Dit vooral omdat ik daar voorgaande projecten mezelf nog niet veel in had verdiept.",
         "id": "_ATM2K9Vnl",
         "type": "paragraph"
-    },
-    {
-        "attrs": [],
-        "content": "I don't know what this is?",
-        "id": "_r7s0ov601",
-        "type": "kirbytext"
-    },
-    {
-        "attrs": {
-            "language": "css"
-        },
-        "content": "And what should this be?",
-        "id": "_ymeh8uuyc",
-        "type": "code"
     }
 ]
 
