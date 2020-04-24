@@ -250,3 +250,9 @@ a:hover {
         margin: 10px;
         float: center;
     }
+
+    .skills img {
+        width: 40%;
+        margin: 10px;
+        float: right;
+    }

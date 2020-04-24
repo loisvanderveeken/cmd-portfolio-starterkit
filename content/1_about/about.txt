@@ -7,6 +7,25 @@ Text:
 [
     {
         "attrs": [],
+        "content": "",
+        "id": "_jvxfvqapr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/about/files/skills.png",
+            "src": "http://192.168.64.2/media/pages/about/1585480484-1587728392/skills.png",
+            "id": "about/skills.png",
+            "ratio": 0.42902208201892744199312801356427371501922607421875,
+            "caption": "",
+            "css": "skills"
+        },
+        "content": "",
+        "id": "_ridrii4x3",
+        "type": "image"
+    },
+    {
+        "attrs": [],
         "content": "<strong>Wie ben ik?</strong>",
         "id": "_lvxCRbYKl",
         "type": "paragraph"
