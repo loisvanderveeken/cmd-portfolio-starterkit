@@ -36,6 +36,44 @@ Text:
     },
     {
         "attrs": [],
+        "content": "",
+        "id": "_3o5nyqcji",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/schermafbeelding-2020-04-24-om-10.02.58.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3125612314-1587715482/schermafbeelding-2020-04-24-om-10.02.58.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/schermafbeelding-2020-04-24-om-10.02.58.png",
+            "ratio": 1.414096916299559580920686130411922931671142578125,
+            "caption": "",
+            "css": "sprint2"
+        },
+        "content": "",
+        "id": "_f6j8ini8o",
+        "type": "image"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/schermafbeelding-2020-04-24-om-10.02.43.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/113372590-1587715465/schermafbeelding-2020-04-24-om-10.02.43.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/schermafbeelding-2020-04-24-om-10.02.43.png",
+            "ratio": 1.4147058823529412574515617961878888309001922607421875,
+            "caption": "",
+            "css": "sprint1"
+        },
+        "content": "",
+        "id": "_fev9em5sg",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ijasutyh5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
         "content": "<strong>Project foodlab</strong>",
         "id": "_xrso4m9wk",
         "type": "paragraph"
@@ -66,14 +104,58 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Heb je het doel behaald?<br></strong>Voor nu is het doel behaald we hebben 3 op een staande concepten kunnen ontwikkelen. Deze 3 concepten zijn terug te zien op op de storyboards.",
+        "content": "",
         "id": "_gOZQJL2Sq",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<strong>Wat heb je geleerd?<br></strong>Op dit moment heb ik vooral geleerd logische stappen te maken in mijn ontwerpproces en vooral voorafgaand aan een actie voor mezelf scherpleren stellen wat ik eruit wil halen en wat ik denk eruit te halen. Zo wordt het duidelijk wat ik wil bereiken en kan ik de resultaten beter evalueren.",
+        "content": "",
         "id": "_MVmUIDgJu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/laddering-samenvatting.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/640402155-1587649140/laddering-samenvatting.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/laddering-samenvatting.png",
+            "ratio": 0.706650831353919262056706429575569927692413330078125,
+            "caption": "",
+            "css": "laddering"
+        },
+        "content": "",
+        "id": "_igpkxdycb",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_i1tysqqdc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+doodles-and-illustrations-to-showcase-my-creativity/files/reflectie-veganweek.png",
+            "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3573560925-1587649994/reflectie-veganweek.png",
+            "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/reflectie-veganweek.png",
+            "ratio": 0.706650831353919262056706429575569927692413330078125,
+            "caption": "",
+            "css": "veganweek"
+        },
+        "content": "",
+        "id": "_rvvudbhoi",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Heb je het doel behaald?<br></strong>Voor nu is het doel behaald we hebben 3 op een staande concepten kunnen ontwikkelen. Deze 3 concepten zijn terug te zien op op de storyboards.",
+        "id": "_dr3vkug2k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Wat heb je geleerd?<br></strong>Op dit moment heb ik vooral geleerd logische stappen te maken in mijn ontwerpproces en vooral voorafgaand aan een actie voor mezelf scherpleren stellen wat ik eruit wil halen en wat ik denk eruit te halen. Zo wordt het duidelijk wat ik wil bereiken en kan ik de resultaten beter evalueren. Zo zie je op deze afbeeldingen de resultaten van de laddering interviews die ik heb gedaan en de vegan week.",
+        "id": "_wt2scukt7",
         "type": "paragraph"
     },
     {

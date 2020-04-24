@@ -194,3 +194,59 @@ a:hover {
         margin: 10px; 
         float: right;
     }
+
+    .laddering img { 
+        width: 30%;
+        margin-left: 10px; 
+        margin-right: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        float: right;
+    }
+
+    .veganweek img { 
+        width: 30%;
+        margin-right: 10px; 
+        margin-left: 10px;
+        margin-bottom: 50px;
+        margin-top: 10px;
+        float: right;
+    }
+
+    .sprint1 img {
+        position: relative;
+        width: 30%;
+        margin: 10px;
+        float: right;
+    }
+
+    .sprint2 img { 
+        position: relative;
+        width: 30%;
+        margin: 10px;
+        float: right;
+    }
+
+    .proceskaart img { 
+        width: 30%;
+        margin: 10px;
+        float: right;
+    }
+
+    .personapolitie img {
+        width: 30%;
+        margin: 10px;
+        float: left; 
+    }
+
+    .storyboardpolitie img { 
+        width: 30%;
+        margin: 10px;
+        float: right;
+    }
+
+    .prototypepolitie img { 
+        width: 100%;
+        margin: 10px;
+        float: center;
+    }

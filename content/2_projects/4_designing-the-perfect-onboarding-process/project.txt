@@ -41,6 +41,19 @@ Text:
         "type": "hr"
     },
     {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/daadwerkelijke-procespolitie.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/1420689049-1587716764/daadwerkelijke-procespolitie.png",
+            "id": "projects/designing-the-perfect-onboarding-process/daadwerkelijke-procespolitie.png",
+            "ratio": 0.706650831353919262056706429575569927692413330078125,
+            "caption": "",
+            "css": "proceskaart"
+        },
+        "content": "",
+        "id": "_fak7wtjci",
+        "type": "image"
+    },
+    {
         "attrs": [],
         "content": "<strong>Wat is de vraag?</strong>",
         "id": "_xmzu9GiuN",
@@ -66,6 +79,25 @@ Text:
     },
     {
         "attrs": [],
+        "content": "",
+        "id": "_gfc895gzh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/schermafbeelding-2019-06-04-om-11.09.55.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3539408360-1587716358/schermafbeelding-2019-06-04-om-11.09.55.png",
+            "id": "projects/designing-the-perfect-onboarding-process/schermafbeelding-2019-06-04-om-11.09.55.png",
+            "ratio": 0.70707070707070707182850810568197630345821380615234375,
+            "caption": "",
+            "css": "personapolitie"
+        },
+        "content": "",
+        "id": "_6uaf7xpje",
+        "type": "image"
+    },
+    {
+        "attrs": [],
         "content": "<strong>Wat heb je gedaan?</strong>",
         "id": "_U0h6Cr5Lw",
         "type": "paragraph"
@@ -74,6 +106,37 @@ Text:
         "attrs": [],
         "content": "Omdat de opdrachtgever tevens ook onze doelgroep was, was het makkelijk om binnen te komen en zo meerdere politieagenten en recherches te kunnen spreken. Zo had ik al snel mijn eerste interview. Omdat het een intern project was, zorgde dat ervoor dat ik nauw contact had met verschillende politieagenten en hun gebruikte als focusgroep. Hier kon ik terecht met mijn vragen maar ook mijn idee\u00ebn, vaak kreeg ik vrijwel direct reacties en feedback op mijn vragen. Dit zorgde ervoor dat ik mezelf goed kon inleven in de doelgroep en rekening kon houden met hun wensen en ingevingen. Aan de hand hiervan heb ik een persona opgesteld waarin hun dag doorloop voorop stond. Aan de hand hiervan ben ik gaan concepten. Hierna hield ik een creatieve sessie samen met 4 medestudenten. Je schreef verschillende concepten op binnen bepaalde tijd. Vervolgens gaf je je blaadje door aan de volgende en voegde die een toevoeging toe enzovoort. Vanuit daar heb ik een concept gekozen die ik ver ging uitwerken aan de hand van wireframes. Voor kleur gebruik was de wens vanuit de politie een keer iets te hebben dat niet blauw is. Dat kon natuurlijk geregeld worden. Daarna heb ik van mijn wireframes en low-fit gemaakt en hier mee een flowchart/ usabiltiy test gedaan. Deze werkte goed waardoor ik weer door kon. Uiteindelijk heb ik dit product door ontworpen tot een midi-fit prototype omdat er niet meer \u2018tijd\u2019 was vanuit school.",
         "id": "_JadOSDUJ1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/schermafbeelding-2019-06-12-om-23.37.06.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/2383002276-1587716383/schermafbeelding-2019-06-12-om-23.37.06.png",
+            "id": "projects/designing-the-perfect-onboarding-process/schermafbeelding-2019-06-12-om-23.37.06.png",
+            "ratio": 0.839137645107794316601257378351874649524688720703125,
+            "caption": "",
+            "css": "storyboardpolitie"
+        },
+        "content": "",
+        "id": "_44kh9xr3i",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_ye5d6r7l1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_0gi4fk9go",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_1pw0zu7f2",
         "type": "paragraph"
     },
     {
@@ -111,6 +174,19 @@ Text:
         "content": "Wat ik denk dat ook stukken beter had gekund is het visuele gebied van de opdracht. Het idee van uit school was dat wij dit project. Alleen hoefde uit te werken toch concept maar ik heb hier nog een schepje bovenop gedaan door ook te prototypen omdat ik hier mezelf nog in kon verbeteren. Dit vooral omdat ik daar voorgaande projecten mezelf nog niet veel in had verdiept.",
         "id": "_ATM2K9Vnl",
         "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+designing-the-perfect-onboarding-process/files/schermafbeelding-2019-06-13-om-12.57.06.png",
+            "src": "http://192.168.64.2/media/pages/projects/designing-the-perfect-onboarding-process/3433366877-1587716421/schermafbeelding-2019-06-13-om-12.57.06.png",
+            "id": "projects/designing-the-perfect-onboarding-process/schermafbeelding-2019-06-13-om-12.57.06.png",
+            "ratio": 2.363636363636363757478875413653440773487091064453125,
+            "css": "prototypepolitie",
+            "caption": "Prototype"
+        },
+        "content": "",
+        "id": "_yk99h1vgq",
+        "type": "image"
     }
 ]
 
