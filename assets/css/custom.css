@@ -140,6 +140,7 @@ a:hover {
             border-bottom: 1px solid #dee2e6!important;
             margin: 20px;
             }
+
     .energiemeter img { 
         width: 30%;
         height: 231px;
@@ -253,6 +254,12 @@ a:hover {
 
     .skills img {
         width: 40%;
+        margin: 10px;
+        float: right;
+    }
+
+    .styleguidevkw img { 
+        width: 30%;
         margin: 10px;
         float: right;
     }

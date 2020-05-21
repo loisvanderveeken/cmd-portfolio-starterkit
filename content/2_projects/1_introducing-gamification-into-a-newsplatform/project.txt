@@ -1,4 +1,4 @@
-Title: Upcoming project restyling de website van VKWbouw
+Title: Restyling website VKWbouw.nl
 
 ----
 
@@ -6,7 +6,7 @@ Roles: Visual Designer
 
 ----
 
-Duration: Up coming
+Duration: On going
 
 ----
 
@@ -37,8 +37,81 @@ Text:
     },
     {
         "attrs": [],
-        "content": "VKWbouw heeft mij gevraagd om tijdens de vakanties aan hun website te werken en deze aan te passen op gebruikt vriendelijkheid omdat zij op dit moment de website niet helemaal logisch vinden ingericht. Dit is een project dat ik gedurende de meivakantie en zomer vakantie ga oppakken.",
+        "content": "Samen met VKW bouw B.V. heb ik de interface van hun website mogen ontwerpen.",
         "id": "_k3fqo7u23",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_3rmq90lo7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>De vraag van VKW bouw B.V.<br></strong>\"Onze site is inmiddels wat verouderd, wij willen graag een nieuwe website. Niks bijzonders maar gewoon lekker simpel.\"",
+        "id": "_nesc4i4yp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/projects+introducing-gamification-into-a-newsplatform/files/schermafbeelding-2020-05-21-om-16.38.29.png",
+            "src": "http://192.168.64.2/media/pages/projects/introducing-gamification-into-a-newsplatform/1259940758-1590071939/schermafbeelding-2020-05-21-om-16.38.29.png",
+            "id": "projects/introducing-gamification-into-a-newsplatform/schermafbeelding-2020-05-21-om-16.38.29.png",
+            "ratio": 1.1738148984198646385124220614670775830745697021484375,
+            "caption": "",
+            "css": "styleguidevkw"
+        },
+        "content": "",
+        "id": "_s6zgjswpk",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Aanpak<br></strong>Samen met VKW bouw B.V. ben ik gaan kijken wat zij op dit moment op de website hebben staan en wat hun wensen hier in zijn. Hun wensen waren:",
+        "id": "_38eft09up",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Een simpele website",
+        "id": "_h5k1wydr8",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Een website waarin de 'kleuren van VKW bouw B.V. meer terug kwamen.",
+        "id": "_m5uy69ndz",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Meer bouw projecten op de site en deze ook zelf kunnen updaten.",
+        "id": "_db1ekk149",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "Voor deze 'simpele' website wilde ik natuurlijk weten wat er allemaal op moest en met wat voor schermen in rekening moest houden. Deze heb ik dus eerst geschetst. Daarnaast vond de opdrachtgever dat de huisstijl te weinig terug kwam in de voorgaande website. Daarom heb ik aan de hand van hun logo een huisstijl gemaakt en deze aan hun voorgelegd. Toen ik een go kreeg op beide ben ik begonnen aan het design, dit heb ik gedaan in Figma omdat er nog een 3e partij de online gaat ontwikkelen en we zo tijdens de corona periode makkelijk kunnen schakelen.",
+        "id": "_ftgsio592",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_x91n07pkp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Op dit moment staat de site nog niet online, we zijn nog bezig de laatste puntjes op de \u00ef te zetten .",
+        "id": "_8urfg7uk5",
         "type": "paragraph"
     }
 ]

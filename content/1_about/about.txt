@@ -12,19 +12,6 @@ Text:
         "type": "paragraph"
     },
     {
-        "attrs": {
-            "guid": "/pages/about/files/skills.png",
-            "src": "http://192.168.64.2/media/pages/about/1585480484-1587728392/skills.png",
-            "id": "about/skills.png",
-            "ratio": 0.42902208201892744199312801356427371501922607421875,
-            "caption": "",
-            "css": "skills"
-        },
-        "content": "",
-        "id": "_ridrii4x3",
-        "type": "image"
-    },
-    {
         "attrs": [],
         "content": "<strong>Wie ben ik?</strong>",
         "id": "_lvxCRbYKl",
@@ -32,7 +19,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Ik ben Lois van der Veeken, ik ben 22 jaar en ik studeer Communication and Multimedia design aan de Hogeschool Rotterdam. Hier voel ik me helemaal thuis. Ik ben altijd nieuwsgierig en leergierig. Dit komt goed van pas bij onderzoeken. Daarnaast vind ik het interessant om oplossingsgericht bezig te zijn. Ik zeg dan ook altijd \u2018Het komt wel goed en zo niet, dan toch!\u2019",
+        "content": "Ik ben Lois van der Veeken, ik ben 22 jaar en ik studeer Communication and Multimedia design aan de Hogeschool Rotterdam. Hier voel ik me helemaal thuis. Ik ben altijd nieuwsgierig en leergierig. Dit komt goed van pas bij onderzoeken. Daarnaast vind ik het belangrijk om de eindgebruiker centraal te hebben in het ontwerpproces en vooral gewoon te doen! 'Take a risk or lose a chance' is een van mijn levensmotto's maar zeker ook gebruikelijk in mijn ontwerpproces.",
         "id": "_hnFK8QOXK",
         "type": "paragraph"
     },
@@ -50,7 +37,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Na wat research gedaan te hebben kwam ik bij de opleiding CMD. Na meerdere Hogescholen te hebben bezocht, tipte een vriendin mij over de Hogeschool Rotterdam. Na wat verhalen te hebben gehoord was ik erg nieuwsgierig en besloot ik een kijkje te gaan nemen. Gelijk voelde ik mezelf thuis. De manier van lesgeven sprak mij erg aan. Je hebt meerdere projecten met echte opdrachtgevers waar je aan werkt. Daarnaast ben je vrij om jezelf middels keuzevakken te specialiseren.",
+        "content": "Na wat research, kwam ik bij de opleiding CMD. Een vriendin tipte mij over de Hogeschool Rotterdam. Na wat verhalen te hebben gehoord was ik erg nieuwsgierig en besloot ik een kijkje te gaan nemen. Gelijk voelde ik mezelf thuis. De manier van lesgeven sprak mij erg aan. Omdat ik een 'doener' ben. Op de Hogeschool Rotterdam heb verschillende projecten met echte opdrachtgevers. Zo leer je projectmatig het ontwerpproces kennen. Daarnaast ben je vrij om jezelf middels keuzevakken te specialiseren.",
         "id": "_gn9lGdFqk",
         "type": "paragraph"
     },
@@ -62,7 +49,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Ik vind alles eigenlijk leuk omtrent design. Maar als ik dan toch een voorkeur moet uitspreken gaat deze uit naar visual design. Mij lijkt het dan ook leuk om mezelf tijdens de stage periode bezig te houden met visual design, content strategie en ux copywriting.",
+        "content": "Ik vind alles eigenlijk leuk omtrent design. Daarom ben ik flexibel omdat je mij overal kunt inzetten. Ik wil mijn stage dan ook gebruiken om te ontdekken hoe alles er in het werkveld aan toe gaat en tijdens mijn stage een specifiekere richting te kiezen.",
         "id": "_nqe8aeo9j",
         "type": "paragraph"
     },
