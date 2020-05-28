@@ -6,4 +6,4 @@ Introductiontitle: Hi, ik ben Lois van der Veeken!
 
 ----
 
-Introductiontext: Leergierig  -  Kneetbaar  -  Enthousiast  -  Nieuwsgierig
+Introductiontext: Leergierig  -  Kneedbaar  -  Enthousiast  -  Nieuwsgierig
