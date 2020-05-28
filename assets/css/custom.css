@@ -1,6 +1,6 @@
 
 body {
-    background-color: #CEB39D;
+    background-color: #000000;
     font-family: 'Bellota Text', cursive;
 }
 
@@ -9,7 +9,7 @@ body {
     }
 
 .navbar-light .navbar-brand:hover {
-        color: #254A2F;
+        color: #E6D2F8;
     }
 
 .navbar-light .navbar-nav .nav-link {
@@ -17,21 +17,21 @@ body {
     }
 
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #254A2F;
+    color: #E6D2F8;
     }
 
 .border-bottom {
-    border-bottom: 1px solid #dee2e6!important;
+    border-bottom: 1px solid #E6D2F8!important;
     color: #fff;
     }
     
 
 h1 {
-    color: #254A2F;
+    color: #fff;
 }
 
 h2 {
-    color: #254A2F;
+    color: #fff;
 }
 
 p { 
@@ -40,26 +40,26 @@ p {
 
 .btn-primary {
     color: #fff;
-    background-color: #E5D1C4;
-    border-color: #E5D1C4;
+    background-color: #3d3d3d;
+    border-color: #3d3d3d;
     }
 
 .btn-primary:hover {
-    color: #CEB39D;
-    background-color: #fff;
-    border-color: #CEB39D;
+    color: #ffffff;
+    background-color: #E6D2F8;
+    border-color: #E6D2F8;
     }
 
 .btn-outline-primary {
     color: #fff;
-    background-color: #CEB39D;
-    border-color: #E5D1C4;
+    background-color: #000000;
+    border-color: #fff;
 }
 
 .btn-outline-primary:hover {
-    color: #CEB39D;
-    background-color: #fff;
-    border-color: #CEB39D;
+    color: #E6D2F8;
+    background-color: #000000;
+    border-color: #E6D2F8;
 }
 
 a {
@@ -69,7 +69,7 @@ a {
     }
 
 a:hover {
-    color: #254A2F;
+    color: #E6D2F8;
     text-decoration: underline;
    }
 
@@ -84,7 +84,7 @@ a:hover {
     border-bottom-left-radius: 0.5rem;
     border-top-left-radius: 0.5rem;
     border-top-right-radius: 0.5rem;
-    background-color: #E5D1C4; 
+    background-color: #3d3d3d; 
     border-image-repeat: stretch;
     border: 10px solid #none(0, 0, 0, 0);
     height: 200px;
@@ -94,7 +94,7 @@ a:hover {
 
     .card:hover {
         -webkit-transform: scale(1.1);
-        border-color: #766049;
+        border-color: #fff;
         }
 
 
@@ -119,7 +119,7 @@ a:hover {
 
 
     figcaption {
-    color: #254A2F;
+    color: #ffffff;
     }
 
     .rounded-circle {
@@ -141,6 +141,10 @@ a:hover {
             margin: 20px;
             }
 
+ul {
+            color: white;
+}
+            
     .energiemeter img { 
         width: 30%;
         height: 231px;
