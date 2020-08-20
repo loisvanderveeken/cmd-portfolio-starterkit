@@ -80,13 +80,19 @@ Text:
     },
     {
         "attrs": [],
+        "content": "Tijdens het laatste semester hebben wij",
+        "id": "_s5lrgmmxc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
         "content": "Op dit moment zijn we nog bezig met het project, dit kan gezien worden als een tussentijdse update. We hebben op dit moment net het eerste kwartaal afgerond met 3 concepten. Deze gaan we in de komende tijd door ontwikkelen tot een product. Hier kun je alvast lezen wat ik afgelopen kwartaal samen met mijn team heb gedaan.",
         "id": "_F2q7HXcz4",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<strong>Wat is de vraag?<br></strong>De vraag vanuit het foodlab is hoe zij ervoor kunnen zorgen dat de WO-student van het EUR gezonder en duurzamer gaat leven (eigenlijk zelfs vegan). Tijdens een observatie op de campus viel ons op dat deze studenten veel koffie drinken. Na hier nog wat verdiepend onderzoek over te hebben gedaan kwamen wij erachter dat de studenten te weinig energie hebben en daarom grijpen naar energie boosters zoals koffie. Dit energie te kort kan komen door een slecht voedingspatroon. Hier herkennen de WO-studenten zichzelf in. Door hogeschooldruk denken zij namelijk dat er geen tijd is om gezond en duurzaam te eten.",
+        "content": "<strong>Wat is de vraag?<br></strong>De vraag vanuit het foodlab is hoe wij ervoor kunnen zorgen dat de WO-student van het EUR gezonder en duurzamer gaat leven (eigenlijk zelfs vegan). Tijdens een observatie op de campus viel ons op dat deze studenten veel koffie drinken. Na verdiepend onderzoek waarom zij veel koffie drinken, kwamen wij erachter dat de studenten te weinig energie hebben en daarom grijpen naar energie boosters zoals koffie of redbull. Dit energie te kort kan komen door een slecht voedingspatroon. De WO-studenten geeft aan zichzelf te herkennen in o.a. een slecht voedingspatroon. Door hogeschooldruk denken zij namelijk dat er geen tijd is om gezond en duurzaam te eten/ leven.",
         "id": "_n0aaeUtFZ",
         "type": "paragraph"
     },
@@ -98,14 +104,20 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Wat heb je gedaan?<br></strong>Om achter deze informatie te komen heb ik een aantal laddering interviews afgenomen bij WO-studenten die dezelfde pijnpunten ervaarde. Toen mijn team en ik deze vergeleken waren daar ook dezelfde raakvlakken. Daarnaast heb ik en een aantal teamgenoten geprobeerd een week lang vegan te eten. Om te kijken wat wij uiteindelijk van de WO-student gaan vragen en wat de pijnpunten zijn en deze ook herkennen. Zo kunnen wij hier weer inzichten uithalen en deze weer gebruiken voor onze ideevormingsfase.",
-        "id": "_QwODN8WUm",
+        "content": "<strong>Wat heb je gedaan?<br></strong>Om achter deze informatie te komen hebben mijn teamgenoten en ik een aantal laddering interviews afgenomen bij WO-studenten. Op de afbeelding zijn de uitkomsten van mijn interviews te zien. De vervolgstap was dat wij de uitkomsten gingen overleggen en proberen verbanden in kaart te brengen. Wat opviel was dat de schooldruk hoog was en dat het belang van gezonde voeding niet altijd werd ingezien. Waardoor de studenten dus ongezond tot semi-gezond eten. Er nog zeker ruimte is voor verbetering. Hierin kan een vegan lifestyle goed op in spelen. Het kan er namelijk voor zorgen dat je tot 20% meer energie krijgt en dat de voordelen hiervan al na 1 week kan voelen.",
+        "id": "_g7p42y1e6",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "",
-        "id": "_gOZQJL2Sq",
+        "content": "Dit wilde wij natuurlijk zelf wel eens ondervinden. Dat is de reden dat ik zelf ook een week vegan heb geprobeerd te leven. Een reflectie over deze week is ook te zien op de afbeelding hieronder (de linkse). Zo ondervind ik wat voor mij bijvoorbeeld knelpunten waren en hoe we deze mee kunnen nemen in de ideevorming fase. Hieruit zijn 3 idee\u00ebn gekomen die wij middels een storyboard hebben verbeeld",
+        "id": "_yb8jumhm3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Wij hebben uiteindelijk de 3 idee\u00ebn verwerkt tot een concept. Een app waarmee je inzicht krijgt in je energie level en meldingen zend rond de tijden dat je moet eten, omdat studenten regelmatig ook onbewust hele maaltijden overslaan. Daarnaast stelt deze applicatie ook gerechten voor zodat jij zelf niet hoeft te bedenken wat je moet eten.",
+        "id": "_72t0he15j",
         "type": "paragraph"
     },
     {
@@ -120,8 +132,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/640402155-1587649140/laddering-samenvatting.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/laddering-samenvatting.png",
             "ratio": 0.706650831353919262056706429575569927692413330078125,
-            "caption": "",
-            "css": "laddering"
+            "css": "laddering",
+            "caption": ""
         },
         "content": "",
         "id": "_igpkxdycb",
@@ -139,8 +151,8 @@ Text:
             "src": "http://192.168.64.2/media/pages/projects/doodles-and-illustrations-to-showcase-my-creativity/3573560925-1587649994/reflectie-veganweek.png",
             "id": "projects/doodles-and-illustrations-to-showcase-my-creativity/reflectie-veganweek.png",
             "ratio": 0.706650831353919262056706429575569927692413330078125,
-            "caption": "",
-            "css": "veganweek"
+            "css": "veganweek",
+            "caption": ""
         },
         "content": "",
         "id": "_rvvudbhoi",
@@ -148,13 +160,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong>Heb je het doel behaald?<br></strong>Voor nu is het doel behaald we hebben 3 op een staande concepten kunnen ontwikkelen. Deze 3 concepten zijn terug te zien op op de storyboards.",
+        "content": "<strong>Heb je het doel behaald?<br></strong>Voor mij is het doel zeker behaald. De WO-studenten reageerde enthousiast op ons concept en geven aan dat ze het wel eens uit zouden willen proberen als het op de markt zou zijn. Daarnaast was onze opdrachtgever ook erg tevreden waardoor wij in haar top 3 zijn beland die zij het beste vond.",
         "id": "_dr3vkug2k",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "<strong>Wat heb je geleerd?<br></strong>Op dit moment heb ik vooral geleerd logische stappen te maken in mijn ontwerpproces en vooral voorafgaand aan een actie voor mezelf scherpleren stellen wat ik eruit wil halen en wat ik denk eruit te halen. Zo wordt het duidelijk wat ik wil bereiken en kan ik de resultaten beter evalueren. Zo zie je op deze afbeeldingen de resultaten van de laddering interviews die ik heb gedaan en de vegan week.",
+        "content": "<strong>Wat heb je geleerd?<br></strong>Op dit moment heb ik vooral geleerd logische stappen te maken in mijn ontwerpproces en vooral voorafgaand aan een actie voor mezelf scherp stellen wat ik eruit wil halen en wat ik denk eruit te halen. Zo wordt het duidelijk wat ik wil bereiken en kan ik de resultaten beter evalueren. Zo zie je op deze afbeeldingen de resultaten van de laddering interviews die ik heb gedaan en de vegan week. Daarnaast heb ik ook remote leren werken met onderander progromma's zoals Miro en Figma.",
         "id": "_wt2scukt7",
         "type": "paragraph"
     },
@@ -166,7 +178,13 @@ Text:
     },
     {
         "attrs": [],
-        "content": "<strong><br></strong>",
+        "content": "Lees ook vooral mijn stukje op LinkedIn hoe ik het thuis werken tijdens covid-19 heb ervaren.",
+        "id": "_ja5zps9i0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "https://www.linkedin.com/posts/loisvanderveeken_figma-miro-positieve-activity-6688784136259293185-LMNt<strong><br></strong>",
         "id": "_0ykl5yo2k",
         "type": "paragraph"
     },

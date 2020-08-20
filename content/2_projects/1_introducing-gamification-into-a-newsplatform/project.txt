@@ -104,14 +104,14 @@ Text:
     },
     {
         "attrs": [],
-        "content": "",
-        "id": "_x91n07pkp",
+        "content": "Bekijk de website op www.vkwbouw.nl",
+        "id": "_prynkmfzq",
         "type": "paragraph"
     },
     {
         "attrs": [],
-        "content": "Op dit moment staat de site nog niet online, we zijn nog bezig de laatste puntjes op de \u00ef te zetten .",
-        "id": "_8urfg7uk5",
+        "content": "",
+        "id": "_f9t9z77c9",
         "type": "paragraph"
     }
 ]
