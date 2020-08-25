@@ -49,7 +49,7 @@ Text:
     },
     {
         "attrs": [],
-        "content": "Ik vind alles eigenlijk leuk omtrent design. Daarom ben ik flexibel omdat je mij overal kunt inzetten. Ik wil mijn stage dan ook gebruiken om te ontdekken hoe alles er in het werkveld aan toe gaat en tijdens mijn stage een specifiekere richting te kiezen.",
+        "content": "Ik vind alles eigenlijk leuk omtrent design. Daarom ben ik flexibel omdat, je mij overal kunt inzetten. Ik wil mijn stage dan ook gebruiken om te ontdekken hoe alles er in het werkveld aan toe gaat en tijdens mijn stage een specifiekere richting te kiezen.",
         "id": "_nqe8aeo9j",
         "type": "paragraph"
     },
